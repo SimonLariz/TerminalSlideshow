@@ -1,7 +1,7 @@
 # Terminal Ascii Slideshow
 An awesome python program that will display ascii representations of images in the terminal.
 
-![](exampleGif.gif)
+![](example.gif)
 
 
 ### Prerequisites
